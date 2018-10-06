@@ -114,7 +114,7 @@ L<Unicode::UTF8|https://metacpan.org/pod/Unicode::UTF8> for a super fast UTF-8 e
 
 =item *
 
-L<Building a UTF-8 encoder in Perl|http://perltricks.com/article/building-a-utf-8-encoder-in-perl/> my PerlTricks.com article about this code.
+L<Building a UTF-8 encoder in Perl|https://www.perl.com/article/building-a-utf-8-encoder-in-perl/> my Perl.com article about this code.
 
 =item *
 
